@@ -1,0 +1,48 @@
+[17-Sep-2017 21:11:50 UTC] PHP Notice:  Undefined index: HTTPS in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 6
+[17-Sep-2017 21:11:50 UTC] PHP Notice:  Undefined variable: fetch_page in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 12
+[17-Sep-2017 21:11:50 UTC] PHP Notice:  Undefined offset: 2 in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/ajax-call.php on line 6
+[17-Sep-2017 21:11:50 UTC] PHP Notice:  Undefined variable: final_analysis in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 221
+[17-Sep-2017 21:12:49 UTC] PHP Notice:  Undefined offset: 2 in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/ajax-call.php on line 6
+[17-Sep-2017 21:12:49 UTC] PHP Notice:  Undefined index: HTTPS in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 18
+[17-Sep-2017 21:12:50 UTC] PHP Notice:  Undefined variable: final_analysis in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 221
+[17-Sep-2017 21:14:21 UTC] PHP Notice:  Undefined index: HTTPS in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 18
+[01-Oct-2017 04:31:47 UTC] PHP Notice:  Undefined variable: basic_tags in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 129
+[01-Oct-2017 04:31:47 UTC] PHP Notice:  Undefined index: h5 in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 122
+[01-Oct-2017 04:31:47 UTC] PHP Fatal error:  Using $this when not in object context in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/ajax-call.php on line 33
+[01-Oct-2017 04:46:53 UTC] PHP Notice:  Undefined index: h5 in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 122
+[01-Oct-2017 04:46:53 UTC] PHP Fatal error:  Using $this when not in object context in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/ajax-call.php on line 33
+[01-Oct-2017 04:54:25 UTC] PHP Notice:  Undefined index: h5 in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 123
+[01-Oct-2017 04:54:25 UTC] PHP Fatal error:  Call to protected method SEOptimize::call_SQL() from context '' in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/ajax-call.php on line 33
+[01-Oct-2017 05:10:38 UTC] PHP Notice:  Undefined index: h5 in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 123
+[01-Oct-2017 05:10:38 UTC] PHP Notice:  Undefined index: data-array in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 79
+[01-Oct-2017 05:10:38 UTC] WordPress database error Column 'page_id' cannot be null for query INSERT INTO `wp_seoptimize_cache` (`id`, `page_id`, `score`, `cache`) VALUES ('', NULL, NULL, NULL) made by SEOInput->gradeSEO, SEOptimize->call_SQL, SEOptimize->addData
+[01-Oct-2017 05:20:25 UTC] PHP Notice:  Undefined index: h5 in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 123
+[01-Oct-2017 05:20:25 UTC] PHP Notice:  Undefined index: data-array in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 79
+[01-Oct-2017 05:20:25 UTC] WordPress database error Column 'page_id' cannot be null for query INSERT INTO `wp_seoptimize_cache` (`id`, `page_id`, `score`, `cache`) VALUES ('', NULL, NULL, NULL) made by SEOInput->gradeSEO, SEOptimize->call_SQL, SEOptimize->addData
+[01-Oct-2017 05:28:10 UTC] PHP Notice:  Undefined index: h5 in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 123
+[01-Oct-2017 05:28:10 UTC] PHP Notice:  Undefined index: data-array in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 79
+[01-Oct-2017 05:28:10 UTC] WordPress database error Column 'page_id' cannot be null for query INSERT INTO `wp_seoptimize_cache` (`id`, `page_id`, `score`, `cache`) VALUES ('', NULL, NULL, NULL) made by SEOInput->gradeSEO, SEOptimize->call_SQL, SEOptimize->addData
+[01-Oct-2017 05:33:24 UTC] PHP Notice:  Undefined index: h5 in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 123
+[01-Oct-2017 05:33:24 UTC] PHP Notice:  Undefined index: data-array in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 79
+[01-Oct-2017 05:33:24 UTC] WordPress database error Column 'page_id' cannot be null for query INSERT INTO `wp_seoptimize_cache` (`id`, `page_id`, `score`, `cache`) VALUES ('', NULL, NULL, NULL) made by SEOInput->gradeSEO, SEOptimize->call_SQL, SEOptimize->addData
+[01-Oct-2017 05:45:32 UTC] PHP Notice:  Array to string conversion in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/ajax-call.php on line 10
+[01-Oct-2017 05:49:29 UTC] PHP Notice:  Undefined index: data-array in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 79
+[01-Oct-2017 05:49:29 UTC] WordPress database error Column 'page_id' cannot be null for query INSERT INTO `wp_seoptimize_cache` (`id`, `page_id`, `score`, `cache`) VALUES ('', NULL, NULL, NULL) made by SEOInput->gradeSEO, SEOptimize->call_SQL, SEOptimize->addData
+[01-Oct-2017 05:57:00 UTC] PHP Notice:  Undefined property: SEOInput::$new_page in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 220
+[01-Oct-2017 05:57:00 UTC] PHP Notice:  Undefined index: data-array in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 79
+[01-Oct-2017 05:57:00 UTC] WordPress database error Column 'page_id' cannot be null for query INSERT INTO `wp_seoptimize_cache` (`id`, `page_id`, `score`, `cache`) VALUES ('', NULL, NULL, NULL) made by SEOInput->gradeSEO, SEOptimize->call_SQL, SEOptimize->addData
+[01-Oct-2017 06:11:35 UTC] PHP Notice:  Undefined variable: final_analysis in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 220
+[01-Oct-2017 06:11:35 UTC] PHP Notice:  Undefined index: data-array in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 79
+[01-Oct-2017 06:11:35 UTC] WordPress database error Column 'page_id' cannot be null for query INSERT INTO `wp_seoptimize_cache` (`id`, `page_id`, `score`, `cache`) VALUES ('', NULL, NULL, NULL) made by SEOptimize->add_cache, SEOptimize->call_SQL, SEOptimize->addData
+[01-Oct-2017 06:13:55 UTC] PHP Notice:  Undefined variable: final_analysis in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 220
+[01-Oct-2017 06:13:55 UTC] PHP Notice:  Undefined index: data-array in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 79
+[01-Oct-2017 06:13:55 UTC] WordPress database error Column 'page_id' cannot be null for query INSERT INTO `wp_seoptimize_cache` (`id`, `page_id`, `score`, `cache`) VALUES ('', NULL, NULL, NULL) made by SEOptimize->add_cache, SEOptimize->call_SQL, SEOptimize->addData
+[01-Oct-2017 06:15:04 UTC] PHP Notice:  Undefined index: data-array in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoptimize.php on line 79
+[01-Oct-2017 06:15:04 UTC] WordPress database error Column 'page_id' cannot be null for query INSERT INTO `wp_seoptimize_cache` (`id`, `page_id`, `score`, `cache`) VALUES ('', NULL, NULL, NULL) made by SEOptimize->add_cache, SEOptimize->call_SQL, SEOptimize->addData
+[01-Oct-2017 12:42:56 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/ajax-load.php on line 12
+[01-Oct-2017 12:47:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'wp-content/wp-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/ajax-load.php on line 8
+[01-Oct-2017 12:52:44 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/ajax-load.php on line 16
+[01-Oct-2017 12:53:02 UTC] PHP Fatal error:  Call to undefined function get_option() in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/ajax-load.php on line 16
+[01-Oct-2017 12:58:42 UTC] PHP Notice:  Undefined variable: new_button in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/ajax-load.php on line 60
+[03-Oct-2017 21:56:17 UTC] PHP Notice:  Undefined variable: description_length in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 101
+[03-Oct-2017 21:57:58 UTC] PHP Notice:  Undefined variable: description_length in /home/uzudev/seoplus.uzudev.com/wp-content/plugins/SEOptimize-New/resources/class.seoinput.php on line 101

@@ -1,0 +1,23 @@
+.SEOdash-score-number { text-align:center; font-size: 65px; line-height: 0.9em; padding: 0; margin: 0 !important; }
+.SEOdash-score-text { text-align:center; font-weight:bold; }
+.SEOdash-stat { margin:0 !important; }
+.SEOdash-site { display:block; overflow-y:auto; clear:both; margin:0 !important; }
+.SEOdash-bold { margin:0 !important; font-weight:bold; }
+.SEOdash-sectext { font-size:18px; line-height:0px; font-weight:bold; color:#B1B1B1; }
+.SEOdash-big { color:black; font-weight: bold; font-size:100%; margin:0 !important; }
+.SEOdash-hr { margin:0 !important; }
+.SEOdash-green { color:green; font-weight:bold; }
+.SEOdash-red { color:red; }
+.SEO-score-circle {	float:left; width: 10px; height: 10px; -moz-border-radius: 5px;	-webkit-border-radius: 5px;	border-radius: 5px; margin-right:5px; margin-top: 5px; }
+.SEOdash-circleR { background:red; }
+.SEOdash-circleY { background:yellow; }
+.SEOdash-circleG { background:green; }
+.SEOdash-circleT { float:left; }
+.SEOdash-loading { display:flex; width:100%; min-height:250px; align-items:center; flex-direction:column; justify-content:center; }
+.SEOdash-loadpic { width:100%; }
+.end-section { display:block; width:100%; min-height:35px; margin-top:10px; }
+.SEOdash-smallload { float:left; min-height:20px; width:100%; padding-top:10px; padding-bottom:10px; display:none; }
+.SEOdash-smalltxt { float:left; margin-left:8px; font-size:12px; }
+.SEOdash-loadtext { font-size:18px; color:#000; text-align:center; padding-top:15px; }
+.SEOdash-rebutton { float:left; background:#e0e0e0; color:#000; text-align:center; padding-top:10px; padding-bottom:10px; font-size:12px; padding-left:30px; padding-right:30px; }
+.SEOdash-rebutton:hover { background:#B3B3B3; }
